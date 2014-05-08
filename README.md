@@ -11,7 +11,11 @@ You'll need a Github account to report issues and bugs.
 ###2. Learn how to report a bug! *This is very important!*
 
 In order to fix a bug, we have to be able to reproduce the error or problem you've encountered.
-Therefore, please follow this example format: 
+
+
+Therefore, please follow the example format below.
+
+(Or just take a look at the [EXAMPLE ISSUE](https://github.com/larsiusprime/tdrpg-bugs/issues/1))
 
 #####BASIC INFORMATION:
 ```
