@@ -13,17 +13,16 @@ You'll need a Github account to report issues and bugs.
 In order to fix a bug, we have to be able to reproduce the error or problem you've encountered.
 Therefore, please follow this example format: 
 
+#####BASIC INFORMATION:
 ```
-    BASIC INFORMATION:
-    
-    Operating System: Windows XP
-    Browser/Download: Download
-    Demo/Full?      : Full Version
-    Version #       : 0.1.2*
-    Optional Info** : I was using a netbook with a maximum native resolution of 1024x768
-    
-    *Version # is at the bottom-right of the title screen
-    **Optional info is just anything else you think might be important
+Operating System: Windows XP
+Browser/Download: Download
+Demo/Full?      : Full Version
+Version #       : 0.1.2*
+Optional Info** : I was using a netbook with a maximum native resolution of 1024x768
+
+*Version # is at the bottom-right of the title screen
+**Optional info is just anything else you think might be important
 ```
 
 *This information lets us know which build/version of the game has a problem*
