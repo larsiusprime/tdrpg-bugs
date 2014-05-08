@@ -28,9 +28,8 @@ Therefore, please follow this example format:
 
 *This information lets us know which build/version of the game has a problem*
 
+#####STEPS TO REPRODUCE:
 ```
-STEPS TO REPRODUCE:
-    
 1. Start a "New Game"
 2. Beat the first level 
    (I placed the berserker, boosted him once, 
@@ -45,17 +44,15 @@ STEPS TO REPRODUCE:
 
 *If we can't reproduce the bug, we can't fix it!*
 
+#####WHAT I EXPECTED TO HAPPEN:
 ```
-WHAT I EXPECTED TO HAPPEN:
-    
 I expected to see a connection on the map between the second and third battles.
 ```
 
 *Knowing what you were actually expecting to happen is much more helpful than only knowing what the error was.*
 
+#####WHAT HAPPENED INSTEAD:
 ```
-WHAT HAPPENED INSTEAD:
-    
 When I exited the first battle, the first and second levels were connected. 
 When I exited the second battle, however, the second and third battles were NOT connected. 
 I could still click on the third battle and move there, 
