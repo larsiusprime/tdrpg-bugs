@@ -3,7 +3,7 @@ tdrpg-bugs
 
 This repo doesn't have any code, it's just a convenient dumping ground for any issues users might find in the test builds for DQ1-haxe and DQ2-haxe.
 
-#Instructions
+#Instructions (for testers)
 
 ###1. Log in / Sign up for a Github account
 You'll need a Github account to report issues and bugs.
