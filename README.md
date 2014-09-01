@@ -8,10 +8,13 @@ This repo doesn't have any code, it's just a convenient dumping ground for any i
 ###1. Log in / Sign up for a Github account
 You'll need a Github account to report issues and bugs.
 
-###2. Learn how to report a bug! *This is very important!*
+###2. Follow along at https://waffle.io/larsiusprime/tdrpg-bugs
+Waffle.io is a more convenient interface for viewing github issues. However, you can also just use this repository directly to view the raw data, and to report new stuff.
+
+###3. Learn how to report a bug! *This is very important!*
+
 
 In order to fix a bug, we have to be able to reproduce the error or problem you've encountered.
-
 
 Therefore, please follow the example format below.
 
