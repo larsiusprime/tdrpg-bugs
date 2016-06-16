@@ -11,8 +11,10 @@ You'll need a Github account to report issues and bugs.
 ###2. Follow along at https://waffle.io/larsiusprime/tdrpg-bugs
 Waffle.io is a more convenient interface for viewing github issues. However, you can also just use this repository directly to view the raw data, and to report new stuff.
 
-###3. Learn how to report a bug! *This is very important!*
+###2.a. Ask to become a collaborator if you're really serious
+Normal users can't add labels and do much besides create and comment on issues. But if you really, really, like hanging out on our bugtracker for some reason, I can make you a collaborator and give you more power. It's like being a forum moderator, but for bug tracking. Just ping me @larsiusprime in some issue comment if you're into this sort of thing.
 
+###3. Learn how to report a bug! *This is very important!*
 
 In order to fix a bug, we have to be able to reproduce the error or problem you've encountered.
 
