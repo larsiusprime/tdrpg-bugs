@@ -59,7 +59,7 @@ I expected to see a connection on the map between the second and third battles.
 
 *Knowing what you were actually expecting to happen is much more helpful than only knowing what the error was.*
 
-#####WHAT HAPPENED INSTEAD:
+##### WHAT HAPPENED INSTEAD:
 ```
 When I exited the first battle, the first and second levels were connected. 
 When I exited the second battle, however, the second and third battles were NOT connected. 
